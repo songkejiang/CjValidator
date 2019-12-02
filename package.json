@@ -1,0 +1,29 @@
+{
+  "name": "cj-validator",
+  "version": "1.0.3",
+  "description": "参数校验器",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/songkejiang/cj-validator.git"
+  },
+  "keywords": [
+    "参数",
+    "校验器"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/songkejiang/cj-validator/issues"
+  },
+  "homepage": "https://github.com/songkejiang/cj-validator#readme",
+  "dependencies": {
+    "class-validator": "^0.11.0",
+    "lodash": "^4.17.15",
+    "tslib": "^1.10.0",
+    "validator": "^12.1.0"
+  }
+}
